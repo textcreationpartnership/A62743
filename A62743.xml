@@ -1,0 +1,410 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the King: a congratulatory poem</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62743</idno>
+            <idno type="STC">Wing T1489</idno>
+            <idno type="STC">ESTC R219759</idno>
+            <idno type="EEBO-CITATION">99831207</idno>
+            <idno type="PROQUEST">99831207</idno>
+            <idno type="VID">35670</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62743)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35670)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2115:04)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the King: a congratulatory poem</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed at London, and re-printed at Edinburgh, by the heir of Andrew Anderson, printer to His most sacred Majesty,</publisher>
+                  <pubPlace>[Edinburgh] :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35670:1"/>
+            <!-- PDF PAGE 78 -->
+            <p>To the KING: A Congratulatory POEM.</p>
+            <q>
+               <bibl>Virg. Aen. l. 6.</bibl>
+               <l>—Tu maximus Ille es,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nus qui nobis cunctando Reſtituis Rem.</l>
+            </q>
+            <p>Printed at <hi>London,</hi> and Re-printed at <hi>Edinburgh,</hi> by the Heir of <hi>Andrew Anderſon,</hi> Printer to His moſt Sacred <hi>Majeſty,</hi> 1685.</p>
+            <pb facs="tcp:35670:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <pb facs="tcp:35670:2"/>
+            <!-- PDF PAGE 79 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:35670:3"/>
+            <!-- PDF PAGE 80 -->
+            <head>TO THE KING: <hi>A Congratulatory</hi> POEM.</head>
+            <lg>
+               <l>DREAD Sir, ſince it has pleas'd the Pow'rs above,</l>
+               <l>To take the other Object of our Love;</l>
+               <l>Forgive me, if the mighty Happineſs,</l>
+               <l>We now enjoy, but know not to expreſs,</l>
+               <l>Tranſports a Muſe from mourning <hi>CHARLES</hi> his Fate,</l>
+               <l>Your Reign in Numbers to Congratulate.</l>
+               <l>With Tears of Gratitude, that DUTY paid,</l>
+               <l>Accept what our Juſt GRIEF till now delay'd.</l>
+            </lg>
+            <lg>
+               <l>Great King, the Greateſt <hi>Britain</hi> ever knew,</l>
+               <l>Since <hi>Caeſar</hi> not to conquer came, but view;</l>
+               <l>In whom at once indiſputably ſhine.</l>
+               <l>All Vertues, that can make a Man Divine.</l>
+               <l>From one unworthy a more near Acceſs,</l>
+               <l>Receive this Humble, Innocent Addreſs.</l>
+               <l>Not ſuch as every little, trembling Slave,</l>
+               <l>To the Uſurper in your Abſence gave;</l>
+               <l>Falſe Fires, like Meteors, kindled to deceive,</l>
+               <l>Behind them ſtink, and Darkneſs, only Leave.</l>
+               <l>But from an Heart that flows with Loyal Blood,</l>
+               <l>Deriv'd from Anceſtors, not Great, but Good;</l>
+               <l>By Inclination, more than Duty bound,</l>
+               <l>Almighty Love, which ever has been found</l>
+               <l>A ſtronger Tye, the Subjects Faith to awe,</l>
+               <l>Than all the well-wrought Fetters of the Law.</l>
+            </lg>
+            <lg>
+               <pb facs="tcp:35670:3"/>
+               <!-- PDF PAGE 80 -->
+               <l>Great Sir, the Glories of your Future Reign,</l>
+               <l>Riſe to my ſight like ſome Vaſt, Boundleſs Plain,</l>
+               <l>In which the diff'rent Objects we deſcry;</l>
+               <l>At once attract, amaze, and pleaſe the Eye.</l>
+               <l>At the entrance where we take our View, with Fear</l>
+               <l>We find a mighty Precipice appear;</l>
+               <l>Dreadfully ſteep, Horrid to look upon,</l>
+               <l>Like the rough Dangers that did wait your Throne.</l>
+               <l>But unconcern'd on the calm Top you ſate,</l>
+               <l>Plac'd by the Gods, above the Reach of Fate.</l>
+               <l>As you deſerv'd, were always Heaven's Care,</l>
+               <l>Nor in the midſt of Ruine did deſpair.</l>
+               <l>You gave all Proofs of being truly Wiſe,</l>
+               <l>Fac'd ev'ry Danger, Fortune did deſpiſe;</l>
+               <l>Bore all her Changes with an equal Mind,</l>
+               <l>And made her impotent, as well as Blind.</l>
+               <l>Hard by a Noble, uſeful River flows,</l>
+               <l>Enriching all the Country as it goes,</l>
+               <l>And in its Tardy, but Majeſtick Courſe,</l>
+               <l>Shews us your Naval Victories, and Force.</l>
+               <l>
+                  <hi>Sherneſs,</hi> and <hi>Tilbury,</hi> the Banks ſecure,</l>
+               <l>From the Falſe <hi>Dutch</hi> no more Affronts endure;</l>
+               <l>Againſt invading Foes a ſure Defence,</l>
+               <l>And fit to curb Domeſtique Inſolence.</l>
+               <l>Not far from thence to maſſie Chains faſt ty'd,</l>
+               <l>Your ſtrong built Ships, in proper Stations ride;</l>
+               <l>All fram'd of <hi>Engliſh</hi> Oke, for ſervice made,</l>
+               <l>The Nations Bulwarks, Guardians of our Trade.</l>
+               <l>The Ancient Admirals in Battle torn,</l>
+               <l>Have valiant <hi>Monck,</hi> and Fiercer <hi>Rupert</hi> born,</l>
+               <l>Both Sons of <hi>Mars,</hi> but both behind in Fame</l>
+               <l>To you, Great Sir, your <hi>Britain</hi>'s firſt, Beſt Name:</l>
+               <l>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hoſe well-weigh'd Courage, and experienc'd Zeal,</l>
+               <l>
+                  <pb facs="tcp:35670:4"/>
+                  <!-- PDF PAGE 81 -->
+To their own Coſt the neighb'ring States can tell.</l>
+               <l>Juſt to your Friends, too gentle to your Foes,</l>
+               <l>Your long unbroken Courſe of Victory ſhows,</l>
+               <l>What Miſeries fancy Common-wealths attend,</l>
+               <l>When God-like Patient Monarchs they offend.</l>
+            </lg>
+            <lg>
+               <l>But to reſume our well forſaken Theme,</l>
+               <l>And tell what more adorns the Silver ſtream;</l>
+               <l>Your ſpacious Yards, and Docks for Building made,</l>
+               <l>And crowded Stores are next to be ſurvey'd.</l>
+               <l>Here monſtrous Cables are in Circles roll'd,</l>
+               <l>Your Floating Caſtles ſtrong enough to hold;</l>
+               <l>Faſtned to Anchors of Prodigious ſize,</l>
+               <l>They mock the Anger of the Seas, and Skies.</l>
+               <l>Your Brawny Cyclops theſe on Anvils frame,</l>
+               <l>Repeated ſtrokes the ſtubborn Metal tame.</l>
+               <l>Some heave the mighty Bellows, others wet</l>
+               <l>The Coals, exciting an Intenſer Heat.</l>
+               <l>Some with huge Tongs turn the yet unform'd Maſs,</l>
+               <l>Into vaſt Molds, ſome lead the Ductile Braſs.</l>
+               <l>All with united Force at once conſpire</l>
+               <l>To ſhew the ſtrange effects of Skill, and Fire.</l>
+               <l>Chain-ſhot, and Thund'ring Cannon they prepare,</l>
+               <l>Where the Bold Artiſt to Perfection brings</l>
+               <l>Thoſe modern, murd'ring Inſtruments of War,</l>
+               <l>The laſt, but not worſt Arguments of Kings.</l>
+            </lg>
+            <lg>
+               <l>What next the wondring Eye with Pleaſure meets,</l>
+               <l>Are the Materials of ſucceeding Fleets.</l>
+               <l>Of uſeful Timber, a ſtupendious Pile,</l>
+               <l>Planted to Beautifie, and Guard your Iſle.</l>
+               <l>Thoſe Rebels, who your Father's Reign annoy'd,</l>
+               <l>Short fruits of Proſp'rous Villany enjoy'd</l>
+               <l>The Woods that ſhould Defend them, they deſtroy'd.</l>
+               <l>
+                  <pb facs="tcp:35670:4"/>
+                  <!-- PDF PAGE 81 -->
+You, Sir, your Country's Father, with juſt Care,</l>
+               <l>Know when to uſe your Stores, and when to ſpare.</l>
+               <l>Forreſts of Northern Fir, and Brittiſh Oke,</l>
+               <l>Obey your Orders, and the Builders ſtroke.</l>
+               <l>They but perform the Low, Mechanick Part,</l>
+               <l>You are the Genius, Sir, the Soul, the Heart,</l>
+               <l>The labour theirs, yours the Deſign, and Art.</l>
+               <l>For ſince th' Almighty Architect inſpir'd</l>
+               <l>
+                  <hi>Noah</hi> to build the Ship, to which retir'd</l>
+               <l>The Remnant of the delug'd World,</l>
+               <l>No Rev'rend Hiſtory a Prince can tell,</l>
+               <l>Who Fleets e're uſ'd, or underſtood ſo well.</l>
+            </lg>
+            <lg>
+               <l>In vain your Neighbour on the other ſide,</l>
+               <l>With fruitleſs labour, and deluded Pride,</l>
+               <l>Into Good Harbours would his Rocks improve,</l>
+               <l>And from Chok'd Ports returning Sands remove,</l>
+               <l>'Tis eaſier far for him to exerciſe</l>
+               <l>His little frauds upon the Continent,</l>
+               <l>To ſet up Chambers of Dependencies,</l>
+               <l>Where unjuſt Sentences his Bounds augment.</l>
+               <l>Great <hi>JAMES!</hi> to whom by Arms, and Title too,</l>
+               <l>The Empire of the Liquid World is due:</l>
+               <l>Can when he pleaſes his own Ocean free</l>
+               <l>From the Incroachments of the <hi>Dieu Donnée.</hi>
+               </l>
+               <l>To <hi>Breſt</hi> and <hi>Rochfort</hi> can his Fleets confine,</l>
+               <l>Or intercept the Squadrons e'ne they joyn.</l>
+               <l>By threatning War, can check his vaſt Deſign,</l>
+               <l>And call his Armies from the <hi>Po,</hi> and <hi>Rhine.</hi>
+               </l>
+               <lg>
+                  <l>Can uſeleſs make his preſent Naval Power,</l>
+                  <l>And, as Bright <hi>Gloriana</hi> heretofore;</l>
+                  <l>Command the Haughty Prince to Build no more.</l>
+               </lg>
+            </lg>
+            <lg>
+               <l>You to your <hi>Rome</hi> a true <hi>Augustus</hi> are,</l>
+               <l>Like him, you cloſe the Iron Doors of War.</l>
+               <l>
+                  <pb facs="tcp:35670:5"/>
+                  <!-- PDF PAGE 82 -->
+The Sov'raign Arbiter of <hi>Europe</hi> ſtand,</l>
+               <l>Poiſing the Scales in your Impartial Hand.</l>
+               <l>Th' <hi>Italian, German, Spaniard,</hi> and the <hi>Gaul,</hi>
+               </l>
+               <l>When you preſcribe, their ancient <hi>Feuds</hi> let fall.</l>
+               <l>If Northern Kings fall out, your word alone</l>
+               <l>Sends gladſome Peace to chear the frozen Zone.</l>
+               <l>Thus Foreign Nations, by your Prudence thrive,</l>
+               <l>Nor leſs advantage does your own receive.</l>
+               <l>Where e're they ſpread themſelves i' th' Eaſt, or Weſt,</l>
+               <l>With your propitious influence they are Bleſt.</l>
+               <l>Not <hi>Greece,</hi> nor <hi>Rome</hi> ſuch Colonies could boaſt,</l>
+               <l>So firmly ſettled, and ſo ſeldom Loſt.</l>
+               <l>Then for their ſafety you ſuch Laws provide.</l>
+               <l>As none but your own <hi>Britains</hi> know beſide.</l>
+               <l>No ſordid ends of Avarice you purſue,</l>
+               <l>But where your proſp'rous Arms your Pow'r extend,</l>
+               <l>You propagate the Faith which you defend,</l>
+               <l>Calm the Old World, and Civilize the New.</l>
+            </lg>
+            <lg>
+               <l>Pardon me, Sir, that I ſo long forbear</l>
+               <l>One ſignal Inſtance of your Gen'rous Care:</l>
+               <l>That as in Fruitful Regions ſome you plant,</l>
+               <l>You reſcue others from Diſtreſs, and want.</l>
+               <l>So equal Thanks, to the kind Gods are due,</l>
+               <l>Who firſt create, and then preſerve us too.</l>
+               <l>Long time in vain the Valiant Engliſh lay</l>
+               <l>Expoſ'd to Faithleſs <hi>Moors,</hi> an eaſie Prey.</l>
+               <l>Loſt to their Countrey, they in Deſarts ſpent</l>
+               <l>Their uſeleſs lives, till Loyal <hi>Dartmouth</hi> ſent</l>
+               <l>By your Advice, the Shatter'd Reliques bore</l>
+               <l>From <hi>Africk</hi>'s ſcorch'd, inhoſpitable Shore.</l>
+               <l>An Action in each Circumſtance as Great,</l>
+               <l>As the <hi>Athenian</hi> Gen'rals fam'd Retreat.</l>
+               <l>No leſs true Courage, no leſs Conduct ſhown,</l>
+               <l>In our Illuſtrious Engliſh <hi>Xenophon.</hi>
+               </l>
+            </lg>
+            <lg>
+               <pb facs="tcp:35670:5"/>
+               <!-- PDF PAGE 82 -->
+               <l>To thoſe abroad who ſerve you if ſo kind,</l>
+               <l>At Home what Hourly Bleſſings may we find,</l>
+               <l>From the Juſt Temper of your God-like Mind?</l>
+               <l>Not Parents of their Children, Lovers of</l>
+               <l>The firſt Dear Object of their youthful Flame,</l>
+               <l>Half ſo Indulgent, half ſo Tender prove,</l>
+               <l>As you of each Mans Fortune, Life, and Fame.</l>
+               <l>The Young, and Bold, who are for Action fit,</l>
+               <l>To the purſuit of Honour you excite;</l>
+               <l>The few who Merit, ſeldom miſs Reward,</l>
+               <l>The many wretched are not Hope debar'd.</l>
+               <l>What Soldier will decline the Camp, or Field?</l>
+               <l>For whoſe Emerit Age you <hi>Chelſey</hi> build,</l>
+               <l>Where you the Wrecks of Humane Life repair,</l>
+               <l>And pay with Glorious Eaſe the Toils of War.</l>
+            </lg>
+            <lg>
+               <l>But, Sir, we muſt not here your Vertues bound,</l>
+               <l>All Arts have you their firm Protector found,</l>
+               <l>All uſeful Knowledge to ſuch height refin'd,</l>
+               <l>We lagging leave the tir'd Old Schools behind;</l>
+               <l>And Future Times to Ours this Bleſſing owe,</l>
+               <l>They need but practiſe, what from us they know.</l>
+               <l>Witneſs the place, within whoſe Famous Walls,</l>
+               <l>To conqu'ring truth, old error proſtrate falls.</l>
+               <l>Where, led by you, the Hero's of the age,</l>
+               <l>With Dint of Reaſon, Ignorance ingage.</l>
+               <l>Sagacious <hi>Henſhow, Hoskins,</hi> Noble <hi>Boyle,</hi>
+               </l>
+               <l>And <hi>Wren</hi> the <hi>Archimedes</hi> of our Iſle.</l>
+               <l>With <hi>Sylva's</hi> Author, who the Britiſh Oke</l>
+               <l>Has taught to plant, ſince <hi>Charles</hi> there Refuge took</l>
+               <l>
+                  <hi>A</hi> ſacred Tree.</l>
+               <l>The Learned here on Truſt no Notions take,</l>
+               <l>But deep reſearches into Nature make.</l>
+               <l>Purſue her cloſe in all her winding ways,</l>
+               <l>
+                  <pb facs="tcp:35670:6"/>
+                  <!-- PDF PAGE 83 -->
+On ſound Experiments their Syſtems raiſe.</l>
+               <l>Reveal her Treaſures freely to the wiſe,</l>
+               <l>And veil her Secrets from prophaner eyes.</l>
+               <l>In Gratitude, what Altars ſhould we rear?</l>
+               <l>What Vows, what Victims to thoſe Altars bear?</l>
+               <l>Old <hi>Rome</hi> for much leſs Benefits than theſe,</l>
+               <l>Call'd, whilſt alive, her <hi>Caeſars</hi> Deities;</l>
+               <l>And were we not convinc'd, a Pow'r to own,</l>
+               <l>To thoſe Illuſtrious Heathens then unknown,</l>
+               <l>We with more Reaſon might our <hi>JAMES</hi> adore,</l>
+               <l>Than they, their moſt deſerving Emperor.</l>
+               <l>Joy of our hearts, ſole pleaſure of our eyes,</l>
+               <l>With whoſe auſpicious Reign, our Spirits riſe.</l>
+               <l>By long experience dear to us before,</l>
+               <l>Now Dearer for a thouſand Reaſons more.</l>
+               <l>Welcome, as Light to thoſe in Dungeons pent,</l>
+               <l>As pardon to deſpairing wretches ſent,</l>
+               <l>As Home to Men <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> from Baniſhment.</l>
+               <l>But your one Life, we of the Gods implore,</l>
+               <l>In granting that, they all things elſe reſtore.</l>
+            </lg>
+            <lg>
+               <l>The many Peopled VVorld one God obeys.</l>
+               <l>The Scepter of the Air one Eagle ſways.</l>
+               <l>One Gen'rous Lyon ranges through the VVood.</l>
+               <l>One mighty VVhale is Monarch of the Flood.</l>
+               <l>Our <hi>JAMES</hi> the Great, Patron of Arms, and Arts,</l>
+               <l>Commands the Brittiſh Seas, and Shores, and Hearts.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35670:6"/>
+            <!-- PDF PAGE 83 -->
+         </div>
+      </body>
+   </text>
+</TEI>
